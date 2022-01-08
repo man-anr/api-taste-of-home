@@ -1,0 +1,19 @@
+{
+  "name": "api-taste-of-home",
+  "version": "1.0.0",
+  "description": "Restful API for taste of home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Man",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "ip": "^1.1.5",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.3.0"
+  }
+}
